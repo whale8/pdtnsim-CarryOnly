@@ -1,11 +1,6 @@
 #!/usr/bin/env perl
 #
-# Agent class for single-copy and carry-only routing.
-# Copyright (c) 2011-2015, Hiroyuki Ohsaki.
-# All rights reserved.
-#
-# $Id: CarryOnly.pm,v 1.11 2015/12/11 08:14:04 ohsaki Exp $
-#
+
 
 package DTN::Agent::CarryOnly;
 
